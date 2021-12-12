@@ -1,0 +1,84 @@
+//Rejith Jacob SEITA 48
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    <title>Spectre Airlines.com</title>
+    <style>
+        body { 
+  margin:50px 0px; padding:0px;
+    text-align:center; 
+}
+label {
+ text-align: right;
+ width: 70px;
+ padding-right: 20px;
+}
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: rgb(199, 199, 199);
+  padding: 10px;
+}
+
+  .navbar{
+      background-color: rgb(240, 240, 240);
+  }
+  .navbar ul{
+      overflow: auto;
+  }
+  .navbar li{
+     float: left;
+     list-style: none;
+     font-weight: 600;
+  }
+  .navbar li a{
+    padding: 10px 20px;
+    text-decoration:none ;
+  }
+    </style>
+</head>
+
+<header>
+    <nav class="navbar">
+        <ul>
+            <p style="text-align: right;"><strong>Gospectreair@gmail.com &emsp;Customer Service:77991 77991/45452 45452</strong></p>
+            <li><a href="Registerform.html">Registration</a></li>
+            <li><a href="About.html">About</a></li>
+        </ul>
+        
+
+     </nav>
+</header>
+
+
+
+<body style="background-color: #7FFFD4;">
+    <div style="background-color: rgb(71, 164, 207);">
+ 
+<p style="font-style: BankGothic Lt BT; font-size:xx-large;"><q>Fly The Friendly Skies.... </q></p>
+
+         </nav>
+        <!-- <h style="font-style: italic;">Welcome to Spectre Airlines</h1> -->
+        <h1 style="text-align:center"><img src="C:\Users\REJITH JACOB\Desktop\BE 2nd Year\HTML\plane.jpg" ; height="400" ></h1>
+
+         </nav>
+    </div>
+    <header>
+        <nav class="navbar">
+            
+          
+    </header>
+    
+    
+
+    <div style="background-color: rgb(72, 131, 240);" >
+     
+    </div>
+
+    
+  
+</body>
+</html>
